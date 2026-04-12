@@ -1,0 +1,5 @@
+[2026-04-12 11:25:39,507] 9 root - INFO - The execution has started
+[2026-04-12 11:25:39,508] 24 root - INFO - Reading SQL database Started
+[2026-04-12 11:25:39,610] 32 root - INFO - Connection Established<pymysql.connections.Connection object at 0x0000021193F70C20>
+[2026-04-12 11:25:40,011] 30 root - INFO - Reading from my sql
+[2026-04-12 11:25:40,069] 38 root - INFO - Data Ingestion is complete
