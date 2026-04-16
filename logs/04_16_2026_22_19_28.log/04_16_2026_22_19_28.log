@@ -1,0 +1,7 @@
+[2026-04-16 22:19:36,258] 10 root - INFO - The execution has started
+[2026-04-16 22:19:36,281] 30 root - INFO - Reading from my sql
+[2026-04-16 22:19:36,316] 38 root - INFO - Data Ingestion is complete
+[2026-04-16 22:19:36,391] 209 root - INFO - Reading train and test data
+[2026-04-16 22:19:36,392] 191 root - INFO - Categorical Columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[2026-04-16 22:19:36,392] 192 root - INFO - Numerical Columns: ['writing_score', 'reading_score']
+[2026-04-16 22:19:36,399] 221 root - INFO - Applying preprocessing
