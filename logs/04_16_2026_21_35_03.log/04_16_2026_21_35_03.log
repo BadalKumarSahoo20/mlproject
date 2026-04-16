@@ -1,0 +1,4 @@
+[2026-04-16 21:35:20,277] 10 root - INFO - The execution has started
+[2026-04-16 21:35:26,245] 30 root - INFO - Reading from my sql
+[2026-04-16 21:35:26,610] 38 root - INFO - Data Ingestion is complete
+[2026-04-16 21:35:26,611] 22 root - INFO - Custom Exception
